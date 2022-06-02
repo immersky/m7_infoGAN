@@ -62,7 +62,7 @@ c里面的每个维度符合先验的概率分布，比如$categorical\ code\  c
 ![t2](https://user-images.githubusercontent.com/74494790/171648418-4c8a7413-fe07-4b4d-a58d-7814fb91ef36.png)
 
 
-# 示例
+# CGAN示例
 
 转载自https://blog.csdn.net/m0_62128864/article/details/123997832
 
